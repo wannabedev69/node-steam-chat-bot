@@ -127,7 +127,7 @@
   "dependencies": {
     "colors": "^1.1.2",
     "express": "^4.10.0",
-    "express-winston": "^0.4.1",
+    "express-winston": "^2.0.0",
     "html-entities": "^1.2.0",
     "json-stringify-safe": "^5.0.1",
     "lodash": "^3.10.1",
@@ -137,7 +137,7 @@
     "steam-web-api": "^0.0.1",
     "steam-web-api-key": "^0.0.1",
     "steam-weblogon": "^0.0.3",
-    "winston": "^1.0.0"
+    "winston": "^3.3.0"
   },
   "optionalDependencies": {
     "accounting": "^0.4.1",
